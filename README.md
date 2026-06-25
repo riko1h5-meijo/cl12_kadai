@@ -28,5 +28,5 @@ img_flip.save(output_image)
 - アアアアア
 
   |AAAAAA|VBBBB|
-  |------|-----|
-  |aaaaa|aaaaaa|
+  |:------:|:-----:|
+  |![aa](./input.jpg)|![bb](./output.jpg)|
